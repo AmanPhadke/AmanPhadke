@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="470" viewBox="0 0 920 470">
+<rect width="920" height="470" rx="12" fill="#161B22"/>
+<style>
+.m{font-family:"JetBrains Mono","Fira Code","Cascadia Mono",Consolas,"Liberation Mono",monospace;font-size:15px;dominant-baseline:middle}
+.l{fill:#FFA657}.v{fill:#79C0FF}.h{fill:#E6EDF3;font-weight:600}.g{fill:#56D364}.mu{fill:#6E7681}
+</style>
+
+<text x="28" y="32" class="m h">Aman@github</text>
+<line x1="135" y1="32" x2="892" y2="32" stroke="#6E7681"/>
+
+<text x="28" y="72" class="m l">OS:</text><text x="88" y="72" class="m mu">............................</text><text x="320" y="72" class="m v">Windows 11 (cooperative most of the time)</text>
+<text x="28" y="98" class="m l">Education:</text><text x="125" y="98" class="m mu">.........................</text><text x="320" y="98" class="m v">B.Tech Computer Science</text>
+<text x="28" y="124" class="m l">Location:</text><text x="116" y="124" class="m mu">.......................</text><text x="320" y="124" class="m v">India</text>
+
+<text x="28" y="168" class="m l">Languages.Programming:</text><text x="245" y="168" class="m mu">......</text><text x="320" y="168" class="m v">Python, JavaScript</text>
+<text x="28" y="194" class="m l">Languages.Web:</text><text x="180" y="194" class="m mu">.................</text><text x="320" y="194" class="m v">HTML, CSS, Node.js</text>
+<text x="28" y="220" class="m l">Languages.Other:</text><text x="200" y="220" class="m mu">..............</text><text x="320" y="220" class="m v">Hindi, English, und ein bisschen Deutsch</text>
+
+<text x="28" y="264" class="m l">Focus:</text><text x="96" y="264" class="m mu">..........................</text><text x="320" y="264" class="m v">ML / AI / NLP (and occasional confusion)</text>
+<text x="28" y="290" class="m l">Interests:</text><text x="125" y="290" class="m mu">.........................</text><text x="320" y="290" class="m v">AI, DSA, Drums &amp; breaking things for learning</text>
+
+<text x="28" y="334" class="m h">─ Contact </text><line x1="128" y1="334" x2="892" y2="334" stroke="#6E7681"/>
+<text x="28" y="360" class="m l">GitHub:</text><text x="104" y="360" class="m mu">.........................</text><text x="320" y="360" class="m v">github.com/AmanPhadke</text>
+<text x="28" y="386" class="m l">LinkedIn:</text><text x="122" y="386" class="m mu">.......................</text><text x="320" y="386" class="m v">linkedin.com/in/amanphadke0</text>
+<text x="28" y="412" class="m l">Email:</text><text x="104" y="412" class="m mu">..........................</text><text x="320" y="412" class="m v">amanphadke004@gmail.com</text>
+
+<text x="28" y="450" class="m l">Status:</text><text x="104" y="450" class="m mu">..........................</text><text x="320" y="450" class="m g">Compiling... probably.</text>
+</svg>
