@@ -2,9 +2,6 @@
 
 <!-- info card: plain terminal-style whoami block, no ASCII art -->
 
-<table>
-<tr><td>
-
 <div align="center">
 
 <pre style="background:#161b22; color:#79c0ff; padding:20px; border-radius:10px; text-align:left; font-family:'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,monospace; font-size:14px; line-height:1.35;">
@@ -40,8 +37,6 @@
 
 </div>
 
-</td></tr>
-</table>
 
 <br>
 <br>
