@@ -1,18 +1,33 @@
-## Hi there 👋
+<div align="center">
 
+<!-- info card: plain terminal-style whoami block, no ASCII art -->
 
+<h3><code>aman@github ~ $ whoami</code></h3>
 
-<!--
-**AmanPhadke/AmanPhadke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr><td>
 
-Here are some ideas to get you started:
+**Aman Phadke**
+Final-year B.Tech CS & IT student · AI/ML Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year B.Tech, Computer Science & IT, IPS Academy, Indore (RGPV, Bhopal)
+- 🧠 Working across NLP, LLMs, multi-agent systems, MLOps, and computer vision
+- 🌍 Based in Indore, India
+- 🎯 Heading toward a graduate degree in Germany, with AI/ML engineering as an alternative path
+
+</td></tr>
+</table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>aman@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Aman's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+
+</div>
